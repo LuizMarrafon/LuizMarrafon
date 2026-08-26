@@ -1,5 +1,4 @@
-```html
-<div data-importer="border">
+<div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 </div>
 
@@ -7,12 +6,10 @@
 
 <p align="left">
   🎓 Estudante de Ciência da Computação na <b>Unoeste</b>, atualmente cursando o <b>6º termo</b>.<br><br>
-  💻 Tenho interesse em desenvolvimento de software, algoritmos e diferentes áreas da computação. 
+  💻 Tenho interesse em desenvolvimento de software, algoritmos e diferentes áreas da computação.
   Utilizo este GitHub para compartilhar projetos acadêmicos, estudos e aplicações desenvolvidas ao longo da minha graduação.<br><br>
   🚀 Estou sempre buscando aprender novas tecnologias, melhorar minhas habilidades como desenvolvedor e transformar conhecimento em projetos práticos.
 </p>
-
-###
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
@@ -24,14 +21,12 @@
   🎯 Objetivo: evoluir constantemente como desenvolvedor e construir projetos cada vez mais completos
 </p>
 
-###
-
 <h2 align="left">🚀 Projeto em destaque</h2>
 
 <h3 align="left">📊 Sistema de Representação Computacional de Grafos</h3>
 
 <p align="left">
-  Projeto desenvolvido em Java para representar e analisar grafos utilizando diferentes estruturas computacionais.
+  Projeto desenvolvido em <b>Java</b> para representar e analisar grafos utilizando diferentes estruturas computacionais.
 </p>
 
 <p align="left">
@@ -47,11 +42,11 @@
   O projeto aplica conceitos de Teoria dos Grafos e Estruturas de Dados na construção de uma aplicação capaz de interpretar diferentes representações de grafos.
 </p>
 
-<a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO">
-  🔗 Ver projeto
-</a>
-
-###
+<p align="left">
+  <a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO">
+    🔗 Ver projeto
+  </a>
+</p>
 
 <h2 align="left">🛠️ Tecnologias</h2>
 
@@ -79,13 +74,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
 </div>
 
-###
+<br>
 
 <div align="center">
   <i>Always learning, building and improving. 🚀</i>
 </div>
 
+<br>
+
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
 </div>
-```
