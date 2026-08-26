@@ -21,32 +21,6 @@
   🎯 Objetivo: evoluir constantemente como desenvolvedor e construir projetos cada vez mais completos
 </p>
 
-<h2 align="left">🚀 Projeto em destaque</h2>
-
-<h3 align="left">📊 Sistema de Representação Computacional de Grafos</h3>
-
-<p align="left">
-  Projeto desenvolvido em <b>Java</b> para representar e analisar grafos utilizando diferentes estruturas computacionais.
-</p>
-
-<p align="left">
-  🔹 Matriz de Adjacência<br>
-  🔹 Matriz de Incidência<br>
-  🔹 Lista de Adjacência<br>
-  🔹 Identificação de grafos orientados e não orientados<br>
-  🔹 Verificação de grafos simples, regulares e completos<br>
-  🔹 Cálculo e análise dos graus dos vértices
-</p>
-
-<p align="left">
-  O projeto aplica conceitos de Teoria dos Grafos e Estruturas de Dados na construção de uma aplicação capaz de interpretar diferentes representações de grafos.
-</p>
-
-<p align="left">
-  <a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO">
-    🔗 Ver projeto
-  </a>
-</p>
 
 <h2 align="left">🛠️ Tecnologias</h2>
 
@@ -75,20 +49,24 @@
 </div>
 
 <br>
+<h2 align="center">🐍 Minhas contribuições</h2>
 
-<div align="center">
-  <i>Always learning, building and improving. 🚀</i>
-</div>
-
-<br>
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/LuizMarrafon/LuizMarrafon/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/LuizMarrafon/LuizMarrafon/output/github-snake.svg"
+    />
+    <img
+      alt="github contribution snake animation"
+      src="https://raw.githubusercontent.com/LuizMarrafon/LuizMarrafon/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
 <br>
 <div>
